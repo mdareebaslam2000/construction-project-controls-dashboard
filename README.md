@@ -62,7 +62,15 @@ Mechanical / HVAC
 - Forecasted cost growth against baseline
 Structural / Envelope
 - Steel erection and envelope handoff later than baseline
-Visuals
+## Visuals
+
+### Month 10 EVM Snapshot
+
+![Month 10 EVM Snapshot](images/month10_evm_snapshot.png)
+
+### S-Curve — Months 1–10
+
+![S-Curve](images/s_curve_months_1_10.png)
 Month 10 EVM Snapshot
  
 S-Curve — Months 1–10
