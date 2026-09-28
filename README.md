@@ -1,5 +1,5 @@
 $200M Data Center Project Controls Dashboard
-Project Overview
+Project Overview.
 This portfolio project simulates project controls for a $200M hyperscale data center construction program and demonstrates Earned Value Management (EVM), cost forecasting, schedule performance analysis, WBS-based cost control, and executive reporting.
 Note: This is a simulated portfolio case study created for educational and professional demonstration purposes.
 
